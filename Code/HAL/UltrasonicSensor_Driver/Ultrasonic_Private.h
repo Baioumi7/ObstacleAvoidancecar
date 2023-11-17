@@ -1,0 +1,13 @@
+/*
+ * Private.h
+ *
+ *  Created on: Jun 26, 2023
+ *      Author: Kimo Store
+ */
+
+#ifndef ULTRASONICSENSOR_DRIVER_ULTRASONIC_PRIVATE_H_
+#define ULTRASONICSENSOR_DRIVER_ULTRASONIC_PRIVATE_H_
+
+
+
+#endif /* ULTRASONICSENSOR_DRIVER_ULTRASONIC_PRIVATE_H_ */
